@@ -1,0 +1,9 @@
+pdfplumber
+PyMuPDF
+pandas
+nltk
+matplotlib
+seaborn
+wordcloud
+spacy
+langchain
